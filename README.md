@@ -3,8 +3,8 @@ Data
 
 Mmmmmm, data!  More details are provided within each subfolder below.
 
-[pith-Delonix](https://github.com/douglasgscofield/bioinfo/tree/master/pith-Delonix)
--------
+[pith-Delonix](https://github.com/douglasgscofield/data/tree/master/pith-Delonix)
+---------------------
 
 Pith cell measurements from twigs of *Delonix regia*, nested within twig segment, branch, and individual tree.  An analysis of some of the data is provided in:
 
