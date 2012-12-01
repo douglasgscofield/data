@@ -1,7 +1,7 @@
-Data
-====
+Datasets
+========
 
-Mmmmmm, data!  More details are provided within each subfolder below.
+Mmmmmm, data!  More details are available within each subfolder below.  [Email me](mailto:douglasgscofield@gmail.com) with further questions.
 
 [pith-Delonix](https://github.com/douglasgscofield/data/tree/master/pith-Delonix)
 ---------------------
