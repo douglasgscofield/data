@@ -13,6 +13,6 @@ Scofield, DG. 2006. Medial pith cells per meter in twigs as a proxy for mitotic 
 
 These data are also available through DataDryad:
 
-Scofield, DG.  2006. Data from: Medial pith cells per meter in twigs as a proxy for mitotic growth rate (&Phi;/m) in the apical meristem.  Dryad Digital Repository.  *Waiting on DataDryad approval and DOI assignment.*
+Scofield, DG.  2006.  Data from: Medial pith cells per meter in twigs as a proxy for mitotic growth rate (&Phi;/m) in the apical meristem.  Dryad Digital Repository.  <http://dx.doi.org/10.5061/dryad.b1t2b>
 
 When using these data, please cite the paper as well as the DataDryad repository.
