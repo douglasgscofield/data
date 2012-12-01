@@ -104,11 +104,11 @@ toluidine blue O and 0.1% safranin O.
 
 #### Figure 1A: *Delonix regia*, twig cross-section
 
-![*Delonix regia* twig cross-section showing pith and xylem](Delonixregia_twig_crosssection.png)
+![*Delonix regia* twig cross-section showing pith and xylem](https://github.com/douglasgscofield/data/blob/master/pith-Delonix/Delonixregia_twig_crosssection.png?raw=true)
 
 #### Figure 1B: *Delonix regia*, file of 10 medial pith cells (length 386 μm as measured)
 
-![*Delonix regia* file of 10 medial pith cells as measured in the attached data](Delonixregia_pith_medialfile.png)
+![*Delonix regia* file of 10 medial pith cells as measured in the attached data](https://github.com/douglasgscofield/data/blob/master/pith-Delonix/Delonixregia_pith_medialfile.png?raw=true)
 
 
 
