@@ -22,7 +22,7 @@ This work was part of my doctoral research with Stewart T. Schultz and Carol C. 
 
 ### Contents
 
-Columns in `Scofield-AJB-2006-Delonix-regia-pith-measurements.txt` (the
+Columns in `Scofield-AJB-2006-DATA.txt` (the
 processed data file deposited in DataDryad) are:
 
 * tree: the individual tree from which the twig was collected
@@ -41,8 +41,8 @@ presented in the paper.
 
 Files included here:
 
-* `README.DataDryad.txt`: the README submitted to DataDryad 
-* `Scofield-AJB-2006-Delonix-regia-pith-measurements.txt`: the processed data as deposited 
+* `Scofield-AJB-2006-README.txt`: the README submitted to DataDryad 
+* `Scofield-AJB-2006-DATA.txt`: the processed data as deposited 
   in DataDryad
 * `data_cellsizes.txt`: raw measurements of cell sizes; each row is a collection of 
   measurements for a single slide, with values being the length of cell files in number of 
