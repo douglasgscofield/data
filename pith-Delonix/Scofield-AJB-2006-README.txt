@@ -22,22 +22,35 @@ file: location of the measured cell file within the pith (marginal or medial)
 len: calculated length of an individual pith cell in micrometers (see below
     for more details and caveats re: variance)
 
-dbh: diameter of the tree at 1.4 m height, NA if not measured
-
+dbh: diameter in meters of the tree at 1.4 m height, NA if not measured
 
 Thus each cell size measurement is nested within segment, which is nested
 within branch, which is nested within tree.  These data were subject to a
-mixed-effects linear model analysis to identify sources of variation.
+mixed-effects linear model analysis in the above paper.
 
 See below for more details on data gathering and analysis, and see the paper
-for full details and relevant references.  The material below is a cut-down
-and slightly edited version of the Materials and Methods section of the above
-paper.
+for full details and relevant references.  Raw data files and the R script
+used for analysis and figure production are available at my github repository 
+for the dataset:
+
+    http://github.com/douglasgscofield/data/tree/master/pith-Delonix
+
+The material below is a cut-down and slightly edited version of the Materials
+and Methods section of the above paper.
+
+* * *
+
+This work was part of my doctoral research with Stewart T. Schultz and Carol
+C. Horvitz at the University of Miami and was funded in part by U.S. National
+Science Foundation Doctoral Dissertation Improvement Grant DEB-0309253 and
+grants from Sigma Xi and the University of Miami Department of Biology.
+
+* * *
 
 
 ### Sample collection and preparation
 
-Delonix regia (Caesalpinioideae) is a fast-growing, familiar tree planted as
+*Delonix regia* (Caesalpinioideae) is a fast-growing, familiar tree planted as
 an ornamental throughout the world’s tropical and subtropical regions,
 originally native to the lowland seasonal tropics of Madagascar but now very
 rare there.
